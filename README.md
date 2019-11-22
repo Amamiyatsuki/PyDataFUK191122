@@ -7,7 +7,7 @@
 
 ## ファイルとフォルダの説明
 - おっぱい関数withPython.pdf：ＬＴ説明資料（スライド）
-- おっぱい関数 ωith Python.ipynb：名古屋大学のおっぱい関数　検証用
+- おっぱい関数 ωith Python.ipynb：名古屋大学のおっぱい関数　検証用Jupyter Notebook
 - o.py（おっぱい）：電位的おっぱい　検証用Dashアプリ
     * ターミナルから起動して下さい。
         + 起動：python o.py
