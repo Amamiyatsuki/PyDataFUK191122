@@ -10,5 +10,5 @@
 - おっぱい関数 ωith Python.ipynb：名古屋大学のおっぱい関数　検証用
 - o.py：電位的おっぱい　検証用Dashアプリ
 
- -- 起動：python o.py
- -- 停止：「Ctrl」 ＋ C
+ - 起動：python o.py
+ - 停止：「Ctrl」 ＋ C
