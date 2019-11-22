@@ -9,6 +9,6 @@
 - おっぱい関数withPython.pdf：ＬＴ説明資料（スライド）
 - おっぱい関数 ωith Python.ipynb：名古屋大学のおっぱい関数　検証用
 - o.py（おっぱい）：電位的おっぱい　検証用Dashアプリ
- * ターミナルから起動して下さい。
-  + 起動：python o.py
-  + 停止：「Ctrl」 ＋ C
+    * ターミナルから起動して下さい。
+        + 起動：python o.py
+        + 停止：「Ctrl」 ＋ C
