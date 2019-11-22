@@ -5,7 +5,7 @@
 - Fukuoka Growth Next 2F サブイベントスペース 福岡県福岡市中央区大名２丁目６−１１
 - https://pydatafukuoka.connpass.com/event/153957/
 
-## ファイルとフォルダの説明
+## ファイルの説明
 - おっぱい関数withPython.pdf：ＬＴ説明資料（スライド）
 - おっぱい関数 ωith Python.ipynb：名古屋大学のおっぱい関数　検証用Jupyter Notebook
 - o.py（おっぱい）：電位的おっぱい　検証用Dashアプリ
